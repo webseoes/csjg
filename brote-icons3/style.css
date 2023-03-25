@@ -1,0 +1,101 @@
+@charset "utf-8";
+@font-face {
+	font-family: "icons3";
+	src:url("icons3.eot");
+	src:url("icons3.eot?#iefix") format("embedded-opentype"),
+		url("icons3.woff2") format("woff2"),
+		url("icons3.woff") format("woff"),
+		url("icons3.ttf") format("truetype"),
+		url("icons3.svg#icons3") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="i3_"]:before, [class*=" i3_"]:before{
+	font-family: "icons3";
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+}
+.i3_basin:before {
+	content: "\e010";
+}
+.i3_basin_2:before {
+	content: "\e011";
+}
+.i3_broom:before {
+	content: "\e012";
+}
+.i3_broom_4:before {
+	content: "\e013";
+}
+.i3_brush:before {
+	content: "\e014";
+}
+.i3_brush_6:before {
+	content: "\e015";
+}
+.i3_brush_7:before {
+	content: "\e016";
+}
+.i3_clean:before {
+	content: "\e017";
+}
+.i3_clean_9:before {
+	content: "\e018";
+}
+.i3_clean_10:before {
+	content: "\e019";
+}
+.i3_clean_11:before {
+	content: "\e01a";
+}
+.i3_clean_12:before {
+	content: "\e01b";
+}
+.i3_cleaning_tools:before {
+	content: "\e01c";
+}
+.i3_faucet:before {
+	content: "\e01d";
+}
+.i3_gloves:before {
+	content: "\e01e";
+}
+.i3_plunger:before {
+	content: "\e01f";
+}
+.i3_spray:before {
+	content: "\e020";
+}
+.i3_spray_18:before {
+	content: "\e021";
+}
+.i3_trash:before {
+	content: "\e022";
+}
+.i3_wash_hand:before {
+	content: "\e023";
+}
+.i3_wash_hand_21:before {
+	content: "\e024";
+}
+.i3_washing_machine:before {
+	content: "\e025";
+}
+.i3_wipe:before {
+	content: "\e026";
+}
+.i3_wipe_24:before {
+	content: "\e027";
+}
+.i3_wipe_25:before {
+	content: "\e028";
+}
+.i3_wipe_26:before {
+	content: "\e029";
+}
+
