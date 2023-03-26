@@ -11928,3 +11928,15 @@ body.boxed-wrapper .contact-one__call {
   -webkit-box-shadow: 0px 0px 100px 0px rgba(0, 0, 0, 0.08);
   box-shadow: 0px 0px 100px 0px rgba(0, 0, 0, 0.08);
 }
+
+.banner{
+ position: relative; 
+  width: 100%;
+  max-width: 1000px;
+  height: 250px;
+  background-position: 50% 0;
+  background-repeat: no-repeat
+}
+.banner.july4{
+  background-image: url(https://cdn.jsdelivr.net/gh/webseoes/csjg/images/banners/bg/1.webp);
+}
