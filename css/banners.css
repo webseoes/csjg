@@ -1,5 +1,5 @@
 .banner{
- position: relative; 
+  position: relative !important; 
   width: 100%;
   max-width: 1000px;
   height: 250px;
@@ -8,5 +8,5 @@
   border-radius: 10px;
 }
 .banner.july4{
-  background-image: url(https://cdn.jsdelivr.net/gh/webseoes/csjg/images/banners/bg/1.webp);
+  background-image: url(https://cdn.jsdelivr.net/gh/webseoes/csjg/images/banners/bg/1.jpg);
 }
