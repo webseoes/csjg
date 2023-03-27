@@ -1,12 +1,12 @@
 .banner{
- position: relative; 
-  width: 100%;
-  max-width: 1000px;
-  height: 250px;
+  position: relative !important; 
+  width: 100% !important;
+  max-width: 1000px !important;
+  height: 250px !important;
   background-position: 50% 0;
   background-repeat: no-repeat;
   border-radius: 10px;
 }
 .banner.july4{
-  background-image: url(https://cdn.jsdelivr.net/gh/webseoes/csjg/images/banners/bg/1.webp);
+  background-image: url(https://cdn.jsdelivr.net/gh/webseoes/csjg/images/banners/bg/1.jpg);
 }
